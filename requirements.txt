@@ -1,0 +1,13 @@
+pandas
+transformers
+wordcloud
+matplotlib
+plotly
+nbformat
+ipywidgets
+torch
+datasets
+adlfs
+fsspec
+kaggle
+streamlit
